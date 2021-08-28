@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Grizzly",
+      "image": "https://www.kindpng.com/picc/m/40-407874_bear-png-image-with-transparent-background-bears-png.png",
+      "likes": "0",
+      "id": 9
+    },
+    {
+      "name": "dog",
+      "image": "https://cdn.pixabay.com/photo/2015/11/27/20/07/isolated-1066207_960_720.png",
+      "likes": "0",
+      "id": 10
+    },
+    {
+      "name": "spider",
+      "image": "https://freepngimg.com/thumb/spider/5-2-spider-png-image.png",
+      "likes": "0",
+      "id": 11
+    },
+    {
+      "name": "squirrel ",
+      "image": "https://i.dlpng.com/static/png/6963217_preview.png",
+      "likes": "0",
+      "id": 12
     }
   ]
 }
